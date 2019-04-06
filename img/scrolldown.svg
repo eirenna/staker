@@ -1,0 +1,18 @@
+<svg id="scrolldown.svg" xmlns="http://www.w3.org/2000/svg" width="17" height="149" viewBox="0 0 17 149">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #71b4ff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #71b4ff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="Line" class="cls-1" d="M960,650h2V785h-2V650" transform="translate(-952 -650)"/>
+  <circle id="Circle" class="cls-2" cx="8.5" cy="140.5" r="7.5"/>
+</svg>
